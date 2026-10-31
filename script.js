@@ -2,7 +2,7 @@
  * Harsha - Personal Portfolio
  * Clean, Modular Vanilla JavaScript
  */
-
+//tarun
 document.addEventListener('DOMContentLoaded', () => {
   'use strict';
 
